@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maze
-- I'm a 22 year old guy from Germany who works in IT and is obsessed with anything tech related - even outside of my job.
+- I'm a 23 year old guy from Germany who works in IT and is obsessed with anything tech related - even outside of my job.
 - I mostly work on Rainmeter skins, as well as on bash and powershell scripts
 - I'm also probably the definition of a nerd...
 
